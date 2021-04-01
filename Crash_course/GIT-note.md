@@ -1,4 +1,4 @@
-create new files via GitBash
+# create new files via GitBash
 $ touch <file.extension>
 
 # Initialize local Git Repository
